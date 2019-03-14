@@ -1,0 +1,9 @@
+Chicago, Albuquerque, 508
+Albuquerque, Chicago, 250
+Chicago, Los Angeles, 230
+Los Angeles, San Diego, 80
+Chicago, San Diego, 325
+San Diego, Sacramento, 125
+Sacramento, Reno, 85
+Reno, Chicago, 175
+Chicago, New York, 115
